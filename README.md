@@ -53,7 +53,6 @@ sql-analytics-and-reporting/
     └── usp_rpt_IncentiveCalculation.sql
 ```
 
-Folders are numbered to match pipeline execution order (staging runs first, fact tables next, incentive calculation last) — GitHub's default alphabetical file listing would otherwise show them out of order.
 
 ## Key engineering decisions
 
